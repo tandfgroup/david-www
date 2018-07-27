@@ -6,3 +6,5 @@ npm-debug.log
 .*rc
 !.babelrc
 public/bundle*
+.idea
+.davidrc

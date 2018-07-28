@@ -19,8 +19,6 @@ spec:
       containers:
       - name: david
         image: gcr.io/fine-ring-208513/david:latest
-        command: ["printenv"]
-        args: ["HOSTNAME", "KUBERNETES_PORT"]
         imagePullPolicy: Always
         resources:
           requests:

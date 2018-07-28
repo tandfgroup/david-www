@@ -39,7 +39,8 @@
     "watch:js:client": "watchify src/ui/main.jsx -o public/bundle.js -v",
     "watch:css": "node-sass --include-path node_modules -w src/ui/main.scss public/bundle.css",
     "watch:server": "nodemon --watch dist --watch public -e js,css -x 'npm start'",
-    "postinstall": "npm run build && npm run minify"
+    "postinstall": "npm run build && npm run minify",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "ajv": "^5.5.2",

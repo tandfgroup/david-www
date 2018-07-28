@@ -1,3 +1,10 @@
+## [23.2.2](https://github.com/tandfgroup/david-www/compare/v23.2.1...v23.2.2) (2018-07-28)
+
+
+### Bug Fixes
+
+* **travis:** release latest image ([2b14b00](https://github.com/tandfgroup/david-www/commit/2b14b00))
+
 ## [23.2.1](https://github.com/tandfgroup/david-www/compare/v23.2.0...v23.2.1) (2018-07-28)
 
 
